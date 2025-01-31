@@ -58,6 +58,8 @@
                 I = Band 8A,
                 J = Band 11,
                 K = Band 12.
+# Note
+9_Group_1 Bands and Indices (Selected Features_Model Input) and 10_Group_2 Bands and Derived Features (Selected Features_Model Input) were finalized datasets utlized in ML models.
 
 # SCL Classes
 
